@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/skorezore
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://skorezore.xyz
+  * I am skorezore (https://keybase.io/skorezore) on keybase.
+  * I have a public key with fingerprint 1E9D A41C DB85 E498 88F8  FE0D A5FE 2653 ECBA C97B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1e9da41cdb85e49888f8fe0da5fe2653ecbac97b",
+            "host": "keybase.io",
+            "key_id": "a5fe2653ecbac97b",
+            "kid": "01012eeb2e001c64f4bac7d814b9c412587c9874a56e231e55ab1e542fa1a44ac1100a",
+            "uid": "6a35d4aee311ccfca4e86a9603017219",
+            "username": "skorezore"
+        },
+        "service": {
+            "hostname": "skorezore.xyz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1439956251,
+    "expire_in": 157680000,
+    "prev": "75a9adb12a2079e9194aa8726a8634ca61a4578a76479584a71e963ee6fc5fb1",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.41
+Comment: https://keybase.io/crypto
+
+yMIcAnicbVJbSBVBGD6m5iUE8yGoHszNfNGOO7uzt4NYiJahmFgWmXCa3Z3VVds9
+nrPHjoqSmvigEFgRFXkLk9CyDAmkQEUL6SFJ8qHzkJXZBSspiS6ozUq9RAMzw/z/
+930z3z//REyoIzqk5L77zKNdGU9CHo9l+B2FMyvbaynZVKspVy1Vjtc3TTdKsNfj
+1Q2LclEASyqCQFFlkcNQEkVREzVMq4jTMMNzLFZkpEiCTKVQpabPZhAZGfmwUzdJ
+jBzcukqi/8GXrydoQAMGY5nBNA0UHmqQAARVBFCWFAgYThQUSRQg4njMsABzHJLJ
+ChkNAQQhUgCgaUTk/OtyPGI5FSKMWQAURVMQxCKPJJ5maSAwQLKBPuw10ElM0L5y
+04tryKTqUigSrtIVbNfAtvIvxBmoriFsj9e0TMWsIKlSy/K4bKZV7bGhp7Ds/iPi
+lnVDJYUkhCrs9emmQbkAQSqWbqsCyEoSxzMcSKFwwKN7sVu3EZzAizQZ9jW4ikgK
+HJKQKgMGMbQgYQlIECFRYHgk8ixUEE9qwAkiEngoSJwIkUA+jGcx5jWF02RA2bYq
+DZNyQfJMVGIb0ksMZPltz+OjxWGOkGjHxvANdis4oqNi/zaIFhqxlvW6v34yo6Ni
+dX/s8Yc5xXtelt3Lml5cWymIurY6dCt49MPuQM1SRveJQTZhX6ChtLXvyLfk+sb3
+vXWRMWbvlfzwlQIl/vLW5s2F1Q8yxyP981+y28b8NXdvN1d2ZZ978TYpLgAbDwST
+pt/QLUOHsnrRoBE5VTTpuXM9wS1N9NQ1FVb2LS1YcwnB9L7MuanwjuCN86+s+cmr
+QzkfUxeH2ztz21XjcGrLj+Xvodm5cRF5n0f9X1Fy99js87Sd0+Otm5qcW7q4hYOX
+YkZKq0bbWmec+SNPfzUtzgbjL4a5dwzsPduW3trGJjrf9T8ra8gpSvuUfzNveCA8
+8diF5W0/O3tO/wZTSDCa
+=iaHn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skorezore
+
+==================================================================
