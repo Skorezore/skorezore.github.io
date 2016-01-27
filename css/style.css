@@ -1,12 +1,10 @@
-html, body
-{
+html, body {
     width: 100%;
     height: 100%;
     overflow: hidden;
 }
 
-body
-{
+body {
     background: #16a085;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
@@ -14,15 +12,13 @@ body
     -webkit-font-smoothing: antialiased;
 }
 
-#particles
-{
+#particles {
     width: 100%;
     height: 100%;
     overflow: hidden;
 }
 
-#intro
-{
+#intro {
     position: absolute;
     left: 0;
     top: 40%;
@@ -31,22 +27,19 @@ body
     text-align: center;
 }
 
-h1
-{
+h1 {
     text-transform: uppercase;
     font-size: 85px;
     font-weight: 700;
     letter-spacing: 0.015em;
 }
 
-p
-{
+p {
     margin: 0 0 30px 0;
     font-size: 24px;
 }
 
-.unselectable
-{
+.unselectable {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
